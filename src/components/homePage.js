@@ -15,7 +15,7 @@ function HomePage(){
                     </div>
                     <div className="col-sm align-self-center intro">
                                 <h1>Inspired by today's technology to create the future.</h1>
-                                <p>Skilled and knowledgeable in <strong>HTML| CSS| Javascript| React| Axios| React-Routers| BootStrap| Martial UI| Node.js.</strong></p>
+                                <p>Skilled and knowledgeable in <strong>HTML5| CSS3| Javascript| React| Axios| React-Routers| Bootstrap| Material UI| Node.js.</strong></p>
                     </div>
                 </div>
             </div>
@@ -24,8 +24,8 @@ function HomePage(){
                 <div className="row">
                     <div className="p1">
                         <h1>Projects</h1>
-                        <p>Project I have worked on and continue to deveolp as my skills increases</p>
-                        <p>I enjoy learning and applying my knowled to new Projects. For more please take a look at my gitHub.</p>
+                        <p>Projects I have developed and continue to update.</p>
+                        <p>I enjoy learning and applying new skills to new projects. For more please take a look at my GitHub.</p>
                     </div>
                 </div>
             </div>
