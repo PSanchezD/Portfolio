@@ -18,6 +18,6 @@ export const Info = [
         id:3,
         name:"JavaScript-Calculator | live view",
         img:require('../Asset/2.jpg'),
-        url:"stellar-calculator.netlify.app"
+        url:"https://stellar-calculator.netlify.app"
     }
 ]
