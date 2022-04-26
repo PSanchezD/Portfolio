@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
--Portfolio was created with react.js-
+-Portfolio created with react.js-
 
 ## Available Scripts
 
