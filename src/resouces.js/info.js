@@ -16,8 +16,8 @@ export const Info = [
     },
     {
         id:3,
-        name:"SIMPLE-SLOT-MACHINE | live view",
+        name:"JavaScript-Calculator | live view",
         img:require('../Asset/2.jpg'),
-        url:"https://simple-slot-machine-js.netlify.app/"
+        url:"stellar-calculator.netlify.app"
     }
 ]

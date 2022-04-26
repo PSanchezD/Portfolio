@@ -13,7 +13,7 @@ function Nav(){
                         <NavLink href="https://github.com/PSanchezD" target="_blank">GITHUB</NavLink>
                     </NavItem>
                     <NavItem>
-                        <NavLink  href="https://www.linkedin.com/in/pedro-s-3948b6126/">LinkedIn</NavLink>
+                        <NavLink  href="https://www.linkedin.com/in/pedro-s-3948b6126/">LINKEDIN</NavLink>
                     </NavItem>
                     <NavItem>
                         <NavLink  href="/">HOME</NavLink>
